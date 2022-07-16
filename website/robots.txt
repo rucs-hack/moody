@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /wb
+Disallow: /moody/releases/documentation/junk
+Sitemap: http://moody.politespider.com/sitemap.xml
